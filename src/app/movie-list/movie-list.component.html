@@ -1,8 +1,8 @@
 <mat-grid-list cols="2" rowHeight="300">
   <mat-grid-tile *ngFor="let movie of movies">
     <div class="movie-card">
-      <img class="movie-poster" src="/assets/images/son-of-bigfoot.jpg" />
-      <h1>{{ movie.name }}</h1>
+      <img class="movie-poster" src="/assets/images/{{ movie.imageName }}.jpg" />
+      <h3>{{ movie.name }}</h3>
     </div>
   </mat-grid-tile>
 </mat-grid-list>

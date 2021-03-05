@@ -18,23 +18,23 @@ export class MovieService {
       },
       {
         id: 2,
-        name: 'Son of Big Foot',
-        imageName: 'son-of-bigfoot'
+        name: 'Sister Sister',
+        imageName: 'sister-sister'
       },
       {
         id: 3,
-        name: 'Son of Big Foot',
-        imageName: 'son-of-bigfoot'
+        name: 'Mako Mermaids',
+        imageName: 'mako-mermaids'
       },
       {
         id: 4,
-        name: 'Son of Big Foot',
-        imageName: 'son-of-bigfoot'
+        name: 'Masha and the Bear',
+        imageName: 'masha-and-the-bear'
       },
       {
         id: 5,
-        name: 'Son of Big Foot',
-        imageName: 'son-of-bigfoot'
+        name: 'Despicable Me',
+        imageName: 'despicable-me'
       }
     ]
   }
